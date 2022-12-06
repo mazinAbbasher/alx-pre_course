@@ -1,3 +1,2 @@
 #/bin/bash
-echo "School"
-updatedjhk
+echo "The school is open"
